@@ -1,3 +1,0 @@
-cd "ruta de cabbagelock"
-flutter pub get
-flutter run -d chrome
